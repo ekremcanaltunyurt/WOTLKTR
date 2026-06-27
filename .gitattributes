@@ -1,0 +1,7 @@
+* -text
+
+# Release paketine (git archive → indirilen addon zip'i) GİRMESİN.
+# Bunlar yalnızca GitHub/geliştirme içindir; oyundaki addon klasöründe gereksiz.
+.github         export-ignore
+.gitignore      export-ignore
+.gitattributes  export-ignore

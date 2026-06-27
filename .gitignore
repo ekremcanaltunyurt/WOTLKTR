@@ -1,0 +1,16 @@
+# Paketler / sürüm dosyaları (Release asset olarak yüklenir, repoya girmez)
+*.zip
+*.7z
+*.rar
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editör / IDE
+.vscode/
+.idea/
+*.swp
+*.bak
+*.tmp

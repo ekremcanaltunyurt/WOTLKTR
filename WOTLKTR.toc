@@ -1,0 +1,33 @@
+## Interface: 30300
+## Title: WotLK TR
+## Notes: WotLK 3.3.5a (Warmane) için kapsamlı Türkçe çeviri — görev, diyalog, yetenek, büyü ve glyph açıklamaları.
+## Author: Lythnda
+## Version: 0.1.0-beta
+## DefaultState: Enabled
+## SavedVariables: QTR_PS, QTR_SAVED, QTR_GOSSIP, BB_PM, BB_PS, MF_PS, BT_PM, BT_SAVED, SK_PM, SK_SAVED
+## SavedVariablesPerCharacter: QTR_PC
+
+# Çekirdek: tanılama + Türkçe arayüz metinleri + fontlar (İLK yüklenir)
+Core_TR.lua
+
+# Veri (çeviriler)
+QuestData_TR.lua
+QuestList.lua
+Gossip_TR.lua
+TutorialsData_TR.lua
+Bubbles_TR.lua
+Subtitles_TR.lua
+Book_TR.lua
+Talents_TR.lua
+Talents_Tmpl_TR.lua
+Spells_TR.lua
+Glyphs_TR.lua
+SK_CaptureIDs.lua
+
+# Motor + arayüz
+Engine_Quests.lua
+Engine_Bubbles.lua
+Engine_Movies.lua
+Engine_Books.lua
+Engine_Skills.lua
+Frames.xml
